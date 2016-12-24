@@ -7,7 +7,7 @@ A Clojure library for parsing mzML files.
 Install as:
 
 ```clj
-[clj-mzml "0.1.0"]
+[clj-mzml "0.1.1"]
 ```
 
 Require:
